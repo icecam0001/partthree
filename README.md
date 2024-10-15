@@ -1,6 +1,6 @@
 # Part 3: Programming a Server with NodeJS and Express
 
-This repository contains my submissions for Part 3 of the Full Stack Open 2024 course.
+This repository contains my submissions for Part 3 of the Full Stack Open 2024 course
 # Features
 
 RESTful API implementation
